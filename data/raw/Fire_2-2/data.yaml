@@ -1,0 +1,12 @@
+names:
+- FIRE - v1 2023-12-16 11-14am
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: fire_2-ggcbu
+  url: https://universe.roboflow.com/vision-zz6rk/fire_2-ggcbu/dataset/2
+  version: 2
+  workspace: vision-zz6rk
+test: ../test/images
+train: Fire_2-2/train/images
+val: Fire_2-2/valid/images
